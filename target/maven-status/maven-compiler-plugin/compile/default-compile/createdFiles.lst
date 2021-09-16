@@ -1,0 +1,14 @@
+ca\uhn\fhir\jpa\starter\ApiKeyValidatorInterceptor.class
+ca\uhn\fhir\jpa\starter\FhirServerConfigDstu3.class
+ca\uhn\fhir\jpa\starter\FhirServerConfigDstu2.class
+ca\uhn\fhir\jpa\starter\BaseJpaRestfulServer.class
+ca\uhn\fhir\jpa\starter\JpaRestfulServer.class
+ca\uhn\fhir\jpa\starter\FhirServerConfigR5.class
+ca\uhn\fhir\jpa\starter\FhirTesterConfig.class
+ca\uhn\fhir\jpa\starter\ApplicationContext.class
+ca\uhn\fhir\jpa\starter\HapiProperties.class
+ca\uhn\fhir\jpa\starter\ApiKeyClientFactory.class
+ca\uhn\fhir\jpa\starter\FhirServerConfigR4.class
+ca\uhn\fhir\jpa\starter\FhirServerConfigCommon.class
+ca\uhn\fhir\jpa\starter\ApiKeyClientInterceptor.class
+ca\uhn\fhir\jpa\starter\EmpiConfig.class

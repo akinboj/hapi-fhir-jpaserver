@@ -1,0 +1,14 @@
+D:\dev\pegacorn-hapi-fhir-jpaserver\src\main\java\ca\uhn\fhir\jpa\starter\FhirServerConfigR5.java
+D:\dev\pegacorn-hapi-fhir-jpaserver\src\main\java\ca\uhn\fhir\jpa\starter\ApiKeyClientInterceptor.java
+D:\dev\pegacorn-hapi-fhir-jpaserver\src\main\java\ca\uhn\fhir\jpa\starter\ApiKeyValidatorInterceptor.java
+D:\dev\pegacorn-hapi-fhir-jpaserver\src\main\java\ca\uhn\fhir\jpa\starter\FhirServerConfigDstu2.java
+D:\dev\pegacorn-hapi-fhir-jpaserver\src\main\java\ca\uhn\fhir\jpa\starter\ApiKeyClientFactory.java
+D:\dev\pegacorn-hapi-fhir-jpaserver\src\main\java\ca\uhn\fhir\jpa\starter\EmpiConfig.java
+D:\dev\pegacorn-hapi-fhir-jpaserver\src\main\java\ca\uhn\fhir\jpa\starter\FhirServerConfigR4.java
+D:\dev\pegacorn-hapi-fhir-jpaserver\src\main\java\ca\uhn\fhir\jpa\starter\FhirServerConfigCommon.java
+D:\dev\pegacorn-hapi-fhir-jpaserver\src\main\java\ca\uhn\fhir\jpa\starter\FhirTesterConfig.java
+D:\dev\pegacorn-hapi-fhir-jpaserver\src\main\java\ca\uhn\fhir\jpa\starter\HapiProperties.java
+D:\dev\pegacorn-hapi-fhir-jpaserver\src\main\java\ca\uhn\fhir\jpa\starter\JpaRestfulServer.java
+D:\dev\pegacorn-hapi-fhir-jpaserver\src\main\java\ca\uhn\fhir\jpa\starter\BaseJpaRestfulServer.java
+D:\dev\pegacorn-hapi-fhir-jpaserver\src\main\java\ca\uhn\fhir\jpa\starter\FhirServerConfigDstu3.java
+D:\dev\pegacorn-hapi-fhir-jpaserver\src\main\java\ca\uhn\fhir\jpa\starter\ApplicationContext.java

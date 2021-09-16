@@ -1,0 +1,7 @@
+D:\dev\pegacorn-hapi-fhir-jpaserver\src\test\java\ca\uhn\fhir\jpa\starter\ExampleServerDstu2IT.java
+D:\dev\pegacorn-hapi-fhir-jpaserver\src\test\java\ca\uhn\fhir\jpa\starter\ExampleServerDstu3IT.java
+D:\dev\pegacorn-hapi-fhir-jpaserver\src\test\java\ca\uhn\fhir\jpa\starter\ExampleServerR5IT.java
+D:\dev\pegacorn-hapi-fhir-jpaserver\src\test\java\ca\uhn\fhir\jpa\starter\ExampleServerR4IT.java
+D:\dev\pegacorn-hapi-fhir-jpaserver\src\test\java\ca\uhn\fhir\jpa\starter\MultitenantServerR4IT.java
+D:\dev\pegacorn-hapi-fhir-jpaserver\src\test\java\ca\uhn\fhir\jpa\starter\SocketImplementation.java
+D:\dev\pegacorn-hapi-fhir-jpaserver\src\test\java\ca\uhn\fhir\jpa\starter\RandomServerPortProvider.java

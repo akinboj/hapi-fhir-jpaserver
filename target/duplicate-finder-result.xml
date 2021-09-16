@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<duplicate-finder-result version="1">
+    <project artifactId="pegacorn-HAPI-FHIR-jpaserver" groupId="ca.uhn.hapi.fhir" version="5.1.0-Custom-SNAPSHOT" type="war"/>
+    <configuration skip="false" quiet="false" checkCompileClasspath="true" checkRuntimeClasspath="true" checkTestClasspath="false" failBuildInCaseOfDifferentContentConflict="false" failBuildInCaseOfEqualContentConflict="false" failBuildInCaseOfConflict="true" printEqualFiles="false" preferLocal="true" includeBootClasspath="false" bootClasspathProperty="sun.boot.class.path" includePomProjects="false" useDefaultResourceIgnoreList="true" useDefaultClassIgnoreList="true" useResultFile="true" resultFileMinClasspathCount="2" resultFile="D:\dev\pegacorn-hapi-fhir-jpaserver\target\duplicate-finder-result.xml">
+        <ignoredResourcePatterns>
+            <ignoredResourcePattern>.*\.txt$</ignoredResourcePattern>
+            <ignoredResourcePattern>.*\.html$</ignoredResourcePattern>
+            <ignoredResourcePattern>config/favicon.ico</ignoredResourcePattern>
+        </ignoredResourcePatterns>
+        <ignoredClassPatterns/>
+        <conflictingDependencies/>
+        <ignoredDependencies/>
+    </configuration>
+    <results>
+        <result name="compile" conflictState="no-conflict" failed="false">
+            <conflicts/>
+            <ignoredResourcePatterns>
+                <ignoredResourcePattern>^META-INF/.*</ignoredResourcePattern>
+                <ignoredResourcePattern>^OSGI-INF/.*</ignoredResourcePattern>
+                <ignoredResourcePattern>^licenses/.*</ignoredResourcePattern>
+                <ignoredResourcePattern>.*license(\.txt)?$</ignoredResourcePattern>
+                <ignoredResourcePattern>.*notice(\.txt)?$</ignoredResourcePattern>
+                <ignoredResourcePattern>.*readme(\.txt)?$</ignoredResourcePattern>
+                <ignoredResourcePattern>.*third-party(\.txt)?$</ignoredResourcePattern>
+                <ignoredResourcePattern>.*package\.html$</ignoredResourcePattern>
+                <ignoredResourcePattern>.*overview\.html$</ignoredResourcePattern>
+                <ignoredResourcePattern>.*\.txt$</ignoredResourcePattern>
+                <ignoredResourcePattern>.*\.html$</ignoredResourcePattern>
+                <ignoredResourcePattern>config/favicon.ico</ignoredResourcePattern>
+            </ignoredResourcePatterns>
+            <ignoredDirectoryPatterns>
+                <ignoredDirectoryPattern>^.git$</ignoredDirectoryPattern>
+                <ignoredDirectoryPattern>^.svn$</ignoredDirectoryPattern>
+                <ignoredDirectoryPattern>^.hg$</ignoredDirectoryPattern>
+                <ignoredDirectoryPattern>^.bzr$</ignoredDirectoryPattern>
+            </ignoredDirectoryPatterns>
+            <ignoredClassPatterns>
+                <ignoredClassPattern>^(.*\.)?.*\$.*$</ignoredClassPattern>
+                <ignoredClassPattern>^(.*\.)?package-info$</ignoredClassPattern>
+                <ignoredClassPattern>^(.*\.)?module-info$</ignoredClassPattern>
+            </ignoredClassPatterns>
+            <classpathElements type="classes"/>
+            <classpathElements type="resources"/>
+        </result>
+        <result name="runtime" conflictState="no-conflict" failed="false">
+            <conflicts/>
+            <ignoredResourcePatterns>
+                <ignoredResourcePattern>^META-INF/.*</ignoredResourcePattern>
+                <ignoredResourcePattern>^OSGI-INF/.*</ignoredResourcePattern>
+                <ignoredResourcePattern>^licenses/.*</ignoredResourcePattern>
+                <ignoredResourcePattern>.*license(\.txt)?$</ignoredResourcePattern>
+                <ignoredResourcePattern>.*notice(\.txt)?$</ignoredResourcePattern>
+                <ignoredResourcePattern>.*readme(\.txt)?$</ignoredResourcePattern>
+                <ignoredResourcePattern>.*third-party(\.txt)?$</ignoredResourcePattern>
+                <ignoredResourcePattern>.*package\.html$</ignoredResourcePattern>
+                <ignoredResourcePattern>.*overview\.html$</ignoredResourcePattern>
+                <ignoredResourcePattern>.*\.txt$</ignoredResourcePattern>
+                <ignoredResourcePattern>.*\.html$</ignoredResourcePattern>
+                <ignoredResourcePattern>config/favicon.ico</ignoredResourcePattern>
+            </ignoredResourcePatterns>
+            <ignoredDirectoryPatterns>
+                <ignoredDirectoryPattern>^.git$</ignoredDirectoryPattern>
+                <ignoredDirectoryPattern>^.svn$</ignoredDirectoryPattern>
+                <ignoredDirectoryPattern>^.hg$</ignoredDirectoryPattern>
+                <ignoredDirectoryPattern>^.bzr$</ignoredDirectoryPattern>
+            </ignoredDirectoryPatterns>
+            <ignoredClassPatterns>
+                <ignoredClassPattern>^(.*\.)?.*\$.*$</ignoredClassPattern>
+                <ignoredClassPattern>^(.*\.)?package-info$</ignoredClassPattern>
+                <ignoredClassPattern>^(.*\.)?module-info$</ignoredClassPattern>
+            </ignoredClassPatterns>
+            <classpathElements type="classes"/>
+            <classpathElements type="resources"/>
+        </result>
+    </results>
+</duplicate-finder-result>
